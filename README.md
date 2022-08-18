@@ -1,2 +1,2 @@
 # BasTom
-Besti &amp; Tom Test Repository
+Basti &amp; Tom Test Repository
